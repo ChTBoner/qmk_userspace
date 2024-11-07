@@ -13,7 +13,7 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-DEFAULT_FOLDER = corne/rev1
+DEFAULT_FOLDER = splitkb/aurora/corne/rev1
 # CONVERT_TO=rp2040_ce
 CONVERT_TO=liatris
 
